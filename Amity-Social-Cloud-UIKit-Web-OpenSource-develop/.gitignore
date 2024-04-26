@@ -1,0 +1,11 @@
+node_modules/
+build/
+storybook-build/
+.idea/
+
+.env
+.env.local
+.DS_Store
+.eslintcache
+
+dist/
